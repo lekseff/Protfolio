@@ -10,3 +10,4 @@
 + [Игра «Убей кротов»](https://github.com/lekseff/Protfolio/tree/master/mole-game "Игра «Убей кротов»")
 + [Опрос с выбором результатов](https://github.com/lekseff/Protfolio/tree/master/poll "Опрос с выбором результатов")
 + [Простой список дел](https://github.com/lekseff/Protfolio/tree/master/todo "Простой список дел")
++ [Игра крестики-нолики](https://github.com/lekseff/Protfolio/tree/master/tic-tac-toe "Игра крестики-нолики")
