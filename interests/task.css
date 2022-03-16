@@ -1,0 +1,12 @@
+ul {
+  list-style: none;
+}
+
+.header__title {
+  text-align: center;
+}
+
+.interests {
+  list-style: none;
+  user-select: none;
+}
