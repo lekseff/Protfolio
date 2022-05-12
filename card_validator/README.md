@@ -24,16 +24,16 @@
 ![](./pic/maestro.jpg)
 
 Пример карты UNIONPAY:
-![](./pic/unionpay.jpg)
+![](./pic/unionPay.jpg)
 
 Пример карты JCB:
-![](./pic/jcb.jpg)
+![](./pic/JCB.jpg)
 
 Пример карты DISCOVER:
-![](./pic/discover.jpg)
+![](./pic/Discover.jpg)
 
 Пример карты DINERS:
-![](./pic/diners.jpg)
+![](./pic/Diners.jpg)
 
 Пример карты AMERICAN EXPRESS:
 ![](./pic/amexp.jpg)
